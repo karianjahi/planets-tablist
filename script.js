@@ -6,5 +6,6 @@ tabs.forEach(tab => {
         tabs.forEach(tb => {
             tb.setAttribute("aria-selected", "false");
         });
+       panels.forEach(panel => panel.hidden=true);
     });
 });
