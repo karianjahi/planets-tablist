@@ -1,0 +1,43 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.planet-button {
+    font-size: 130%;
+    border: 1px solid rgb(216, 205, 205);
+    background-color: rgb(241, 234, 234);
+    padding: 1%;
+}
+
+.active {
+    border-bottom-color: blue;
+    background-color: white;
+}
+
+.planet-box {
+    display: flex;
+    gap: 2%;
+    justify-content: center;
+    padding: 1%;
+}
+
+#header {
+    display: flex;
+    justify-content: center;
+    padding: 1%;
+}
+
+.message {
+    display: flex;
+    justify-content: center;
+}
+
+#planet-message {
+    font-size: 130%;
+    margin-left: 8%;
+    margin-right: 8%;
+}
