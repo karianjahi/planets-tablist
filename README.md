@@ -6,8 +6,7 @@
 ![A11y](https://img.shields.io/badge/a11y-WAI--ARIA-success)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-A small, framework-free **tabbed interface** that demonstrates practical accessibility fundamentals: **semantic structure, ARIA relationships, and state-driven UI**. Built as a clean repo for learning, reviewing, and showcas
-ing a11y skills. ♿✨
+A small, framework-free **tabbed interface** that demonstrates practical accessibility fundamentals: **semantic structure, ARIA relationships, and state-driven UI**. Built as a clean repo for learning, reviewing, and showcasing a11y (accessibility) skills. ♿✨
 
 🔗 **Live Demo:** [live-demo](https://karianjahi.github.io/planets-tablist/)
 
