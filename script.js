@@ -8,5 +8,8 @@ tabs.forEach(tab => {
         });
        panels.forEach(panel => panel.hidden=true);
        tab.setAttribute("aria-selected", true);
+       const associatedPanel = tab.getAttribute("aria-controls");
+       const panel = document.getElementById(associatedPanel);
+       panel.hidden = false;
     });
 });
